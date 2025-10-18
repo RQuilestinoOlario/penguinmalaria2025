@@ -8,7 +8,7 @@ The script downloads/reads pre-saved Google Trends outputs and produces:
 - Choropleth-style maps of relative search interest by country.
 
 ## Contents
-- `penguinmalaria_fig05.R` — main script to reproduce Figure 5.
+- `fig05_code.R` — main script to reproduce Figure 5.
 - `data/` — input CSVs (Google Trends exports cleaned for analysis).
 - `README.md` — this file.
 - `LICENSE` — usage terms.
