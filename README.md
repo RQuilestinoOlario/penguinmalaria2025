@@ -30,3 +30,6 @@ required_packages <- c(
 )
 installed <- required_packages %in% rownames(installed.packages())
 if (any(!installed)) install.packages(required_packages[!installed])
+
+**License:** Code © 2025 Raven Quilestino-Olario under MIT License;  
+Data and figures © under CC BY 4.0.
